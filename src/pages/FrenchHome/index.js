@@ -1,1 +1,1 @@
-export { defualt } from "./FrenchHome";
+export { default } from "./FrenchHome";
